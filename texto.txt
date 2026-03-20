@@ -1,0 +1,9 @@
+// ejecutar: 
+
+npx ts-node index.ts
+
+// POST: https://jsonplaceholder.typicode.com/posts
+
+// PUT: https://jsonplaceholder.typicode.com/posts/1
+
+// DELETE: https://jsonplaceholder.typicode.com/posts/1
